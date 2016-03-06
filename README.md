@@ -1,3 +1,4 @@
 # VolumeRendering
 
-Rendering Medical Images or Volume  with OpenGL
+
+This Project is to render medical images or Volume with OpenGL.
